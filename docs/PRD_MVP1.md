@@ -108,8 +108,10 @@ MVP段階では開発者自身を唯一のユーザーとする。不動産購�
 | レイヤー       | 技術                                            |
 | -------------- | ----------------------------------------------- |
 | フロントエンド | Next.js（TypeScript）+ Tailwind CSS + shadcn/ui |
-| バックエンド   | Go                                              |
-| データベース   | PostgreSQL                                      |
+| バックエンド   | Next.js API Routes + Drizzle ORM                |
+| データベース   | PostgreSQL（Vercel Postgres）                   |
+| ホスティング   | Vercel                                          |
+| CI             | GitHub Actions                                  |
 | 対応デバイス   | レスポンシブWeb（スマホ / タブレット / PC）     |
 
 ---
