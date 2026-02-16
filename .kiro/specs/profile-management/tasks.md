@@ -7,7 +7,7 @@
   - マイグレーションファイルを生成・適用し、ローカル PostgreSQL にテーブルを作成する
   - _Requirements: 5.1, 5.3_
 
-- [ ] 2. (P) shadcn/ui コンポーネントのインストール
+- [x] 2. (P) shadcn/ui コンポーネントのインストール
   - プロフィールフォームに必要な UI コンポーネント（Button, Input, Label, Card）を shadcn CLI でインストールする
   - インストール後、コンポーネントが正しく配置されていることを確認する
   - _Requirements: 1.1_
